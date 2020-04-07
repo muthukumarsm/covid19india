@@ -1,0 +1,16 @@
+{
+  "name": "covidindia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CovidIndia.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://muthukumarsm.github.io/covid19india",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
