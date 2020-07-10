@@ -19,7 +19,7 @@
         },{
             id: "lastupdatedtime",
             alias: "Last Updated DateTime",
-            dataType: tableau.dataTypeEnum.datetime
+            dataType: tableau.dataTypeEnum.string
         },{
             id: "recovered",
             alias: "recovered",
